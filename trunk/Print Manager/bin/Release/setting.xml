@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DataFolder>\\WALL-E\Data\Prints</DataFolder>
+  <CacheFolder>Cache</CacheFolder>
+  <UserFile>data.xml</UserFile>
+  <LeftMargin>20</LeftMargin>
+  <RightMargin>565</RightMargin>
+  <TopMargin>10</TopMargin>
+  <CountTime>1000</CountTime>
+  <TimePrint>500</TimePrint>
+  <printId>1</printId>
+  <Fill>Fill</Fill>
+  <cacheName>Cache.xml</cacheName>
+  <Template>true</Template>
+</Config>

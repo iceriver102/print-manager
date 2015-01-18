@@ -1,0 +1,19 @@
+D:\Giang.Phan\Projects\Window\Print Manager\Print Manager\bin\Release\Print Manager.exe.config
+D:\Giang.Phan\Projects\Window\Print Manager\Print Manager\obj\Release\MainWindow.g.cs
+D:\Giang.Phan\Projects\Window\Print Manager\Print Manager\obj\Release\UIView\UIPrint.g.cs
+D:\Giang.Phan\Projects\Window\Print Manager\Print Manager\obj\Release\App.g.cs
+D:\Giang.Phan\Projects\Window\Print Manager\Print Manager\obj\Release\Print Manager_Content.g.cs
+D:\Giang.Phan\Projects\Window\Print Manager\Print Manager\obj\Release\Print Manager_MarkupCompile.cache
+D:\Giang.Phan\Projects\Window\Print Manager\Print Manager\obj\Release\Print Manager_MarkupCompile.lref
+D:\Giang.Phan\Projects\Window\Print Manager\Print Manager\bin\Release\Print Manager.exe
+D:\Giang.Phan\Projects\Window\Print Manager\Print Manager\bin\Release\Print Manager.pdb
+D:\Giang.Phan\Projects\Window\Print Manager\Print Manager\obj\Release\MainWindow.baml
+D:\Giang.Phan\Projects\Window\Print Manager\Print Manager\obj\Release\UIView\UIPrint.baml
+D:\Giang.Phan\Projects\Window\Print Manager\Print Manager\obj\Release\Print Manager.g.resources
+D:\Giang.Phan\Projects\Window\Print Manager\Print Manager\obj\Release\Print_Manager.Properties.Resources.resources
+D:\Giang.Phan\Projects\Window\Print Manager\Print Manager\obj\Release\Print Manager.csproj.GenerateResource.Cache
+D:\Giang.Phan\Projects\Window\Print Manager\Print Manager\obj\Release\Print Manager.exe
+D:\Giang.Phan\Projects\Window\Print Manager\Print Manager\obj\Release\Print Manager.pdb
+D:\Giang.Phan\Projects\Window\Print Manager\Print Manager\obj\Release\Print Manager.csprojResolveAssemblyReference.cache
+D:\Giang.Phan\Projects\Window\Print Manager\Print Manager\obj\Release\UIView\KinhDoTemplate.g.cs
+D:\Giang.Phan\Projects\Window\Print Manager\Print Manager\obj\Release\UIView\KinhDoTemplate.baml

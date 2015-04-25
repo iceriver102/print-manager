@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<FileDatas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Datas>
+    <FileData>
+      <Name>PADDLE_POP_0006.JPG</Name>
+      <isPrint>true</isPrint>
+      <FullName>D:\Projects\StreamingAssets\Images\PADDLE_POP_0006.JPG</FullName>
+    </FileData>
+    <FileData>
+      <Name>PADDLE_POP_0007.JPG</Name>
+      <isPrint>false</isPrint>
+      <FullName>D:\Projects\StreamingAssets\Images\PADDLE_POP_0007.JPG</FullName>
+    </FileData>
+  </Datas>
+  <Count>2</Count>
+</FileDatas>

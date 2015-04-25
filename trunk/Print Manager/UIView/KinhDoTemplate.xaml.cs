@@ -21,6 +21,10 @@ namespace Print_Manager.UIView
     /// </summary>
     public partial class KinhDoTemplate : UserControl
     {
+        public double Top
+        {
+            get;set;
+        }
         public BitmapImage Image
         {
             get
@@ -53,7 +57,7 @@ namespace Print_Manager.UIView
             set
             {
                 Canvas.SetLeft(this.UIImage, value);
-                this.UIImage.Width = this.UIImage.Width - 2 * value;
+                //this.UIImage.Width = this.UIImage.Width - 2 * value;
             }
         }
         public double Right
@@ -66,7 +70,7 @@ namespace Print_Manager.UIView
             {
                 
                 Canvas.SetTop(this.UIImage, value);
-                this.UIImage.Height = this.UIImage.Height - 2 * value;
+                //this.UIImage.Height = this.UIImage.Height - 2 * value;
             }
         }
         public KinhDoTemplate()

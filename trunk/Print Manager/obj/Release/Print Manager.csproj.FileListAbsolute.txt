@@ -17,3 +17,45 @@ D:\Giang.Phan\Projects\Window\Print Manager\Print Manager\obj\Release\Print Mana
 D:\Giang.Phan\Projects\Window\Print Manager\Print Manager\obj\Release\Print Manager.csprojResolveAssemblyReference.cache
 D:\Giang.Phan\Projects\Window\Print Manager\Print Manager\obj\Release\UIView\KinhDoTemplate.g.cs
 D:\Giang.Phan\Projects\Window\Print Manager\Print Manager\obj\Release\UIView\KinhDoTemplate.baml
+D:\Giang.Phan\Projects\Window\Print Manager\print-manager\Print Manager\bin\Release\Print Manager.exe.config
+D:\Giang.Phan\Projects\Window\Print Manager\print-manager\Print Manager\obj\Release\Print Manager.exe
+D:\Giang.Phan\Projects\Window\Print Manager\print-manager\Print Manager\obj\Release\Print Manager.pdb
+D:\Giang.Phan\Projects\Window\Print Manager\print-manager\Print Manager\bin\Release\Print Manager.exe
+D:\Giang.Phan\Projects\Window\Print Manager\print-manager\Print Manager\bin\Release\Print Manager.pdb
+D:\Giang.Phan\Projects\Window\Print Manager\print-manager\Print Manager\obj\Release\Print Manager.csprojResolveAssemblyReference.cache
+D:\Giang.Phan\Projects\Window\Print Manager\print-manager\Print Manager\obj\Release\MainWindow.g.cs
+D:\Giang.Phan\Projects\Window\Print Manager\print-manager\Print Manager\obj\Release\UIView\KinhDoTemplate.g.cs
+D:\Giang.Phan\Projects\Window\Print Manager\print-manager\Print Manager\obj\Release\UIView\UIPrint.g.cs
+D:\Giang.Phan\Projects\Window\Print Manager\print-manager\Print Manager\obj\Release\App.g.cs
+D:\Giang.Phan\Projects\Window\Print Manager\print-manager\Print Manager\obj\Release\Print Manager_Content.g.cs
+D:\Giang.Phan\Projects\Window\Print Manager\print-manager\Print Manager\obj\Release\Print Manager_MarkupCompile.cache
+D:\Giang.Phan\Projects\Window\Print Manager\print-manager\Print Manager\obj\Release\Print Manager_MarkupCompile.lref
+D:\Giang.Phan\Projects\Window\Print Manager\print-manager\Print Manager\obj\Release\MainWindow.baml
+D:\Giang.Phan\Projects\Window\Print Manager\print-manager\Print Manager\obj\Release\UIView\KinhDoTemplate.baml
+D:\Giang.Phan\Projects\Window\Print Manager\print-manager\Print Manager\obj\Release\UIView\UIPrint.baml
+D:\Giang.Phan\Projects\Window\Print Manager\print-manager\Print Manager\obj\Release\Print Manager.g.resources
+D:\Giang.Phan\Projects\Window\Print Manager\print-manager\Print Manager\obj\Release\Print_Manager.Properties.Resources.resources
+D:\Giang.Phan\Projects\Window\Print Manager\print-manager\Print Manager\obj\Release\Print Manager.csproj.GenerateResource.Cache
+D:\Projects\Print Manager\print-manager\Print Manager\bin\Release\Print Manager.exe.config
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Release\Print Manager.exe
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Release\Print Manager.pdb
+D:\Projects\Print Manager\print-manager\Print Manager\bin\Release\Print Manager.exe
+D:\Projects\Print Manager\print-manager\Print Manager\bin\Release\Print Manager.pdb
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Release\Print Manager.csprojResolveAssemblyReference.cache
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Release\UIView\Yomost.baml
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Release\MainWindow.g.cs
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Release\UIView\KinhDoTemplate.g.cs
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Release\UIView\UIPrint.g.cs
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Release\UIView\Yomost.g.cs
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Release\App.g.cs
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Release\Print Manager_Content.g.cs
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Release\Print Manager_MarkupCompile.cache
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Release\Print Manager_MarkupCompile.lref
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Release\MainWindow.baml
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Release\UIView\KinhDoTemplate.baml
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Release\UIView\UIPrint.baml
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Release\Print Manager.g.resources
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Release\Print_Manager.Properties.Resources.resources
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Release\Print Manager.csproj.GenerateResource.Cache
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Release\UIView\WallTemplate.baml
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Release\UIView\WallTemplate.g.cs

@@ -59,16 +59,16 @@ namespace Print_Manager
                                 bit.BeginInit();
                                 bit.UriSource = inf.toUri();
                                 bit.EndInit();
-                                UIPrint Print = new UIPrint();
-                                Print.Width = 3508;
-                                Print.Height = 2480;
+                                WallTemplate Print = new WallTemplate();
+                                Print.Width = 1195;
+                                Print.Height =814;
                                 Print.Image = bit;
                                 Print.Left = App.setting.LeftMargin;
                                 Print.Right = App.setting.RightMargin;
                                 Print.Top = App.setting.TopMargin;
                                 Print.Stretch = App.setting.Fill;
                                 FileInfo temp = new FileInfo(Print.saveImage(App.setting.CacheFolder));
-                                temp.PrintImageDefault();
+                                temp.PrintImage(App.setting.printId);
                                 Print = null;
                             }
                             else
@@ -168,9 +168,9 @@ namespace Print_Manager
             FileInfo inf = new FileInfo(f.FullName);
             if (App.setting.Template)
             {
-                UIPrint Print = new UIPrint();
-                Print.Width = 3508;
-                Print.Height = 2480;
+                WallTemplate Print = new WallTemplate();
+                Print.Width = 1195;
+                Print.Height = 814;
                 Print.Left = App.setting.LeftMargin;
                 Print.Right = App.setting.RightMargin;
                 Print.Top = App.setting.TopMargin;
@@ -181,7 +181,7 @@ namespace Print_Manager
                 Print.Image = bit;
                 Print.Stretch = App.setting.Fill;
                 FileInfo temp = new FileInfo(Print.saveImage(App.setting.CacheFolder,FileTypeImage.JPG));
-                temp.PrintImageDefault();
+                temp.PrintImage(App.setting.printId);
                 Print = null;
             }
             else

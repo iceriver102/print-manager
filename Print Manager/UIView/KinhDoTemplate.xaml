@@ -5,8 +5,8 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:Print_Manager.UIView"
              mc:Ignorable="d" 
-             d:DesignHeight="1181" d:DesignWidth="1748">
+             d:DesignHeight="378" d:DesignWidth="559">
     <Canvas x:Name="UIRoot" Height="378" Width="559" Background="White">
-        <Image x:Name="UIImage" Canvas.Left="0" Canvas.Top="0" Height="378" Width="559" Stretch="Fill"/>
+        <Image x:Name="UIImage" Canvas.Left="24" Canvas.Top="0"  Stretch="Uniform" Width="504" Height="378" Source="Alta_635564149206258073.png"/>
     </Canvas>
 </UserControl>

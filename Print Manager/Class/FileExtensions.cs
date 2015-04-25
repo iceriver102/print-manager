@@ -111,7 +111,7 @@ namespace Alta.Class
                 IEnumerable<FileInfo> files = dir.EnumerateFiles();
                 if (extensions == null)
                     return files;
-                return files.Where(f => extensions.Contains(f.Extension));
+                return files.Where(f => extensions.Contains(f.Extension.ToLower()));
             }catch(Exception ex)
             {
                 throw ex;

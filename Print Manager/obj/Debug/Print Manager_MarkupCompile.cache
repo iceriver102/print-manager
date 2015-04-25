@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Giang.Phan\Projects\Window\Print Manager\Print Manager\obj\Debug\
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Debug\
 Print_Manager
 none
 false
 DEBUG;TRACE
-D:\Giang.Phan\Projects\Window\Print Manager\Print Manager\App.xaml
-2666116776
+D:\Projects\Print Manager\print-manager\Print Manager\App.xaml
+41533748195
 11449605581
-141173920640
+16-552401303
 15-236554484
-MainWindow.xaml;UIView\UIPrint.xaml;
+MainWindow.xaml;UIView\KinhDoTemplate.xaml;UIView\UIPrint.xaml;UIView\Yomost.xaml;
 
 False
 

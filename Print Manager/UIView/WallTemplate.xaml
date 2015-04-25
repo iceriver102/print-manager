@@ -1,0 +1,13 @@
+﻿<UserControl x:Class="Print_Manager.UIView.WallTemplate"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="814" d:DesignWidth="1195" Loaded="UserControl_Loaded">
+    <Canvas x:Name="UIRoot" Height="810" Width="1190" Background="White" ClipToBounds="True" >
+        <Canvas x:Name="UICrop" Canvas.Top="24" Canvas.Left="24"  Height="768" Width="1152" ClipToBounds="True">
+            <Image x:Name="UIImage" Canvas.Left="-118"   Stretch="Uniform" Source="PADDLE_POP_0006.JPG"/>
+        </Canvas>
+    </Canvas>
+</UserControl>

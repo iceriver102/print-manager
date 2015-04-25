@@ -16,3 +16,27 @@ D:\Giang.Phan\Projects\Window\Print Manager\Print Manager\obj\Debug\Print Manage
 D:\Giang.Phan\Projects\Window\Print Manager\Print Manager\obj\Debug\UIView\UIPrint.g.cs
 D:\Giang.Phan\Projects\Window\Print Manager\Print Manager\obj\Debug\UIView\UIPrint.baml
 D:\Giang.Phan\Projects\Window\Print Manager\Print Manager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+J:\Backup\Giang.Phan\Projects\Window\Print Manager\print-manager\Print Manager\bin\Debug\Print Manager.exe.config
+J:\Backup\Giang.Phan\Projects\Window\Print Manager\print-manager\Print Manager\obj\Debug\Print Manager.exe
+J:\Backup\Giang.Phan\Projects\Window\Print Manager\print-manager\Print Manager\obj\Debug\Print Manager.pdb
+D:\Projects\Print Manager\print-manager\Print Manager\bin\Debug\Print Manager.exe.config
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Debug\Print Manager.exe
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Debug\Print Manager.pdb
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Debug\UIView\Yomost.baml
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Debug\MainWindow.g.cs
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Debug\UIView\KinhDoTemplate.g.cs
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Debug\UIView\UIPrint.g.cs
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Debug\UIView\Yomost.g.cs
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Debug\App.g.cs
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Debug\Print Manager_Content.g.cs
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Debug\Print Manager_MarkupCompile.cache
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Debug\Print Manager_MarkupCompile.lref
+D:\Projects\Print Manager\print-manager\Print Manager\bin\Debug\Print Manager.exe
+D:\Projects\Print Manager\print-manager\Print Manager\bin\Debug\Print Manager.pdb
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Debug\MainWindow.baml
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Debug\UIView\KinhDoTemplate.baml
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Debug\UIView\UIPrint.baml
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Debug\Print Manager.g.resources
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Debug\Print_Manager.Properties.Resources.resources
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Debug\Print Manager.csproj.GenerateResource.Cache
+D:\Projects\Print Manager\print-manager\Print Manager\obj\Debug\Print Manager.csprojResolveAssemblyReference.cache

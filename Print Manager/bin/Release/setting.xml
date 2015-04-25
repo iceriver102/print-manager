@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <DataFolder>\\WALL-E\Data\Prints</DataFolder>
+  <DataFolder>D:\Projects\StreamingAssets\Images\</DataFolder>
   <CacheFolder>Cache</CacheFolder>
   <UserFile>data.xml</UserFile>
-  <LeftMargin>20</LeftMargin>
-  <RightMargin>565</RightMargin>
-  <TopMargin>10</TopMargin>
+  <LeftMargin>26</LeftMargin>
+  <RightMargin>0</RightMargin>
+  <TopMargin>24</TopMargin>
   <CountTime>1000</CountTime>
   <TimePrint>500</TimePrint>
-  <printId>1</printId>
+  <printId>0</printId>
   <Fill>Fill</Fill>
   <cacheName>Cache.xml</cacheName>
   <Template>true</Template>

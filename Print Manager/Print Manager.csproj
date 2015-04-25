@@ -13,6 +13,7 @@
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <WarningLevel>4</WarningLevel>
+    <ExpressionBlendVersion>12.0.41002.1</ExpressionBlendVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -69,6 +70,12 @@
     <Compile Include="UIView\UIPrint.xaml.cs">
       <DependentUpon>UIPrint.xaml</DependentUpon>
     </Compile>
+    <Compile Include="UIView\WallTemplate.xaml.cs">
+      <DependentUpon>WallTemplate.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UIView\Yomost.xaml.cs">
+      <DependentUpon>Yomost.xaml</DependentUpon>
+    </Compile>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -95,6 +102,14 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="UIView\WallTemplate.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UIView\Yomost.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs">
@@ -118,6 +133,7 @@
     <Resource Include="Assets\Fonts\fontawesome-webfont.ttf" />
     <None Include="Assets\Fonts\fontawesome-webfont.woff" />
     <Resource Include="Assets\Fonts\FontAwesome.otf" />
+    <None Include="Design\projectGuides.guides" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -132,6 +148,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Assets\Fonts\fontawesome-webfont.svg" />
+    <Resource Include="UIView\PADDLE_POP_0006.JPG" />
+    <Resource Include="UIView\11149604_602457799889736_8843029214329625121_o.jpg" />
+    <Resource Include="UIView\Alta_635564149206258073.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Assets\Images\" />
